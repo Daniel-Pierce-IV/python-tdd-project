@@ -3,3 +3,4 @@ geckodriver.log
 superlists/__pycache__/
 *.pyc
 venv-activate.sh
+/static
