@@ -1,1 +1,2 @@
 django==1.11.21
+gunicorn==19.9.0
